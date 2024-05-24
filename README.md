@@ -44,7 +44,7 @@ Sou um desenvolvedor dedicado e entusiasta de tecnologia, com experiência em v�
 ## 🌟 Projetos em Destaque
 
 - [**Projeto 1**](https://github.com/mattfeg/tempclone): Ferramenta desenvolvida em Python para iniciar projetos a partir de templates do Github de forma mais fácil.
-- [**Projeto 2**](https://github.com/seu-usuario/projeto-2): Pesquisa da Dissertação de Mestrado em Informática Aplicada (Em andamento). Impacto da Pandemia de Covid-19 na rede pública de assistência ao câncer de pulmão no Ceará.
+- [**Projeto 2**](https://github.com/mattfeg/pesquisa-oo): Pesquisa da Dissertação de Mestrado em Informática Aplicada (Em andamento). Impacto da Pandemia de Covid-19 na rede pública de assistência ao câncer de pulmão no Ceará.
 
 ---
 
