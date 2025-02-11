@@ -10,10 +10,10 @@
 
 Sou um desenvolvedor dedicado e entusiasta de tecnologia, com experiência em várias linguagens de programação e ferramentas. Minhas principais habilidades incluem:
 
-- **Linguagens de Programação:** JavaScript, PHP, Python
-- **Frameworks:** Laravel, Django
+- **Linguagens de Programação:** Ruby, TypeScript, PHP, Python
+- **Frameworks:** Ruby on Rails, Nest.JS, Laravel
 - **Ferramentas e Tecnologias:** Docker, Git, GitHub
-- **Desenvolvimento Frontend:** HTML, CSS
+- **Desenvolvimento Frontend:** HTML, CSS, ReactJS
 
 ---
 
@@ -38,13 +38,6 @@ Sou um desenvolvedor dedicado e entusiasta de tecnologia, com experiência em v�
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattfeg&show_icons=true&theme=radical)](https://github.com/mattfeg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattfeg&layout=compact&theme=radical)](https://github.com/mattfeg)
-
----
-
-## 🌟 Projetos em Destaque
-
-- [**Projeto 1**](https://github.com/mattfeg/tempclone): Ferramenta desenvolvida em Python para iniciar projetos a partir de templates do Github de forma mais fácil.
-- [**Projeto 2**](https://github.com/mattfeg/pesquisa-oo): Pesquisa da Dissertação de Mestrado em Informática Aplicada (Em andamento). Impacto da Pandemia de Covid-19 na rede pública de assistência ao câncer de pulmão no Ceará.
 
 ---
 
